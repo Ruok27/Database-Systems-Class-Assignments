@@ -5,7 +5,7 @@ import java.util.*;
 
 public class JDBCDemo {
 	
-	private static final String USERNAME = "jofeece467";
+	private static final String USERNAME = "jofeece467"; //username generated for sqlplus
     private static final String PASSWORD = "China123!";
     private static final String HOST = "localhost"; // Host
     private static final String PORT = "1521"; // Default port
