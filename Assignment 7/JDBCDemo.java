@@ -6,7 +6,7 @@ import java.util.*;
 public class JDBCDemo {
 	
     private static final String USERNAME = "********"; //username generated for sqlplus
-    private static final String PASSWORD = ******** //password used
+    private static final String PASSWORD = "********" //password used
     private static final String HOST = "localhost"; // Host
     private static final String PORT = "1521"; // Default port
     private static final String SID = System.getenv("ORACLE_SID"); // Oracle SID
